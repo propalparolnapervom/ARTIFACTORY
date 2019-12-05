@@ -11,7 +11,7 @@
 ```
 NEXUS_E2E_USER="usr"
 NEXUS_E2E_PWD="pwd"
-NEXUS_URL="https://nexus.tools.devopenocean.studio"
+NEXUS_URL="https://nexus.com"
 REPO="raw"
 REPO_DIR="to_del_remotelyuploaded"
 FILE_NAME="index.html"
@@ -24,7 +24,7 @@ Multiply files
 ```
 NEXUS_E2E_USER="usr"
 NEXUS_E2E_PWD="pwd"
-NEXUS_URL="https://nexus.tools.devopenocean.studio"
+NEXUS_URL="https://nexus.com"
 REPO="raw"
 REPO_DIR="to_del_remotelyuploaded"
 FILE_LIST="/tmp/file_list.txt"
@@ -46,7 +46,7 @@ done
 ```
 NEXUS_E2E_USER="usr"
 NEXUS_E2E_PWD="pwd"
-NEXUS_URL="https://nexus.tools.devopenocean.studio"
+NEXUS_URL="https://nexus.com"
 REPO="raw"
 REPO_DIR="to_del_temp"
 DIR_WITH_FILE="/Users/sbur/overall/git_area/to_del/s3-static-website/uploaded/crewing"
@@ -62,7 +62,7 @@ Multiply files
 ```
 NEXUS_E2E_USER="usr"
 NEXUS_E2E_PWD="pwd"
-NEXUS_URL="https://nexus.tools.devopenocean.studio"
+NEXUS_URL="https://nexus.com"
 REPO="raw"
 REPO_DIR="to_del_temp"
 DIR_TO_UPLOAD="/Users/sbur/overall/git_area/to_del/s3-static-website/should_be_on_nexus"
