@@ -9,8 +9,8 @@
 1 file
 
 ```
-NEXUS_E2E_USER="e2etests"
-NEXUS_E2E_PWD="8VvMyKzK9KRXXpPB"
+NEXUS_E2E_USER="usr"
+NEXUS_E2E_PWD="pwd"
 NEXUS_URL="https://nexus.tools.devopenocean.studio"
 REPO="raw"
 REPO_DIR="to_del_remotelyuploaded"
@@ -22,8 +22,8 @@ wget --auth-no-challenge --user ${NEXUS_E2E_USER} --password  ${NEXUS_E2E_PWD} $
 Multiply files
 
 ```
-NEXUS_E2E_USER="e2etests"
-NEXUS_E2E_PWD="8VvMyKzK9KRXXpPB"
+NEXUS_E2E_USER="usr"
+NEXUS_E2E_PWD="pwd"
 NEXUS_URL="https://nexus.tools.devopenocean.studio"
 REPO="raw"
 REPO_DIR="to_del_remotelyuploaded"
@@ -44,8 +44,8 @@ done
 1 file
 
 ```
-NEXUS_E2E_USER="e2etests"
-NEXUS_E2E_PWD="8VvMyKzK9KRXXpPB"
+NEXUS_E2E_USER="usr"
+NEXUS_E2E_PWD="pwd"
 NEXUS_URL="https://nexus.tools.devopenocean.studio"
 REPO="raw"
 REPO_DIR="to_del_temp"
@@ -60,8 +60,8 @@ curl -v -u ${NEXUS_E2E_USER}:${NEXUS_E2E_PWD} --upload-file ${FILE_NAME} ${NEXUS
 Multiply files
 
 ```
-NEXUS_E2E_USER="e2etests"
-NEXUS_E2E_PWD="8VvMyKzK9KRXXpPB"
+NEXUS_E2E_USER="usr"
+NEXUS_E2E_PWD="pwd"
 NEXUS_URL="https://nexus.tools.devopenocean.studio"
 REPO="raw"
 REPO_DIR="to_del_temp"
